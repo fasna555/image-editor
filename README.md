@@ -1,2 +1,22 @@
-# image-editor
-Simple Image Editor using Python and OpenCV
+# Image Editor using OpenCV
+
+## Features
+
+- Grayscale Conversion
+- Resize Image
+- Blur Image
+- Edge Detection
+- Save Edited Image
+
+## Technologies Used
+
+- Python
+- OpenCV
+
+## Screenshot
+
+(Add screenshot below)
+
+## Author
+
+Fasna Shabeer
